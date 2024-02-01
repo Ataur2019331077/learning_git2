@@ -1,1 +1,3 @@
-# learning_git2
+# Practising git
+
+### Hope that make sense.
